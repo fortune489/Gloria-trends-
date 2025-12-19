@@ -1,0 +1,17 @@
+.cover{
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    object-fit: cover;
+    background-color: orange;
+}
+.card img{
+    width: 200px;
+    display: block;
+    object-fit: contain;
+    height: 200px;
+    
+}
